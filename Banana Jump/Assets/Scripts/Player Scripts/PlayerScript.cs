@@ -76,7 +76,7 @@ public class PlayerScript : MonoBehaviour {
 
             push_Count++;
 
-            SoundManager.instance.JumpSoundFX();
+           SoundManager.instance.JumpSoundFX();
 
         }
 
